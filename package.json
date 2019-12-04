@@ -1,0 +1,8 @@
+{
+  "name": "vsocde_plugin_list",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:panDaxiang/vsocde_plugin_list.git",
+  "author": "panxiang <xiang.pan@aihuishou.com>",
+  "license": "MIT"
+}
